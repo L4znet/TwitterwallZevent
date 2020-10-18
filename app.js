@@ -11,12 +11,12 @@ let text = "";
 
 let tweet_text = "";
 var twitter = new Twitter({
-  consumer_key: "u0knN8RILaCoZN1GMBLvDS9hn",
-  consumer_secret: "PwCzkmL4jbT3mHX39Sj6mxdXBfIaKBjxg9d9lDPZBS3hvRPgAN",
-  access_token_key: "329181401-mzqy5XW8fif2iow5dfA1s31FOXY7Km3Ogg3uwY2M",
-  access_token_secret: "pu6wP7PeHc6jFUs5vhMHjJ5kmsvy5YLs3WDxqQRupGfeD",
+  consumer_key: "XXXXXXXX",
+  consumer_secret: "XXXXXXX",
+  access_token_key: "XXXXX",
+  access_token_secret: "XXXXXXX",
   baerer_token:
-    "AAAAAAAAAAAAAAAAAAAAANyvIAEAAAAAEDBLUvdpgvWdQLhwTPh7OawIqOg%3DFH5VNbiB0JuPo86kxCBxfgazvMOEWtUwWuakbsamvtBZqTJBsJ",
+    "XXXXX",
 });
 
 app.set("view engine", "ejs");
