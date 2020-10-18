@@ -15,7 +15,6 @@ node app.js
 
 ## Pour générer vos clés : 
 
-Si vous n'avez pas de compte développeur Twitter : https://developer.twitter.com/en/application/use-case
-
-Si vous en avez un et que vous n'avez pas créé d'application, créez en une, vous pourrez ensuite générer vos clés.
-Si vous avez une application, il vous suffit de renommer votre application si vous le souhaiter, et vous pourrez re-générer vos clés.
+* Si vous n'avez pas de compte développeur Twitter : https://developer.twitter.com/en/application/use-case
+* Si vous en avez un et que vous n'avez pas créé d'application, créez en une, vous pourrez ensuite générer vos clés.
+* Si vous avez une application, il vous suffit de renommer votre application si vous le souhaiter, et vous pourrez re-générer vos clés.
