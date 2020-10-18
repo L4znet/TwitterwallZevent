@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+}
+
+body {
+  font-family: "Oswald", sans-serif;
+}
+body header {
+  width: 100%;
+  height: 90px;
+  background-color: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+body header input {
+  width: 80%;
+  height: 60%;
+  background-color: #fff;
+  outline: none;
+  border: none;
+  border-radius: 4px;
+  font-size: 25px;
+  padding-left: 10px;
+}
+body main {
+  display: flex;
+  flex-direction: column;
+}
+body main .tweet {
+  padding: 5px 0 5px 30px;
+  display: flex;
+  align-items: center;
+}
+body main .tweet img {
+  border-radius: 50%;
+  width: 80px;
+}
+body main .tweet strong {
+  margin-left: 10px;
+}
+body main .tweet p {
+  font-weight: 300;
+  margin-left: 10px;
+}
+body main .tweet_bot {
+  padding: 5px 0 5px 30px;
+  display: flex;
+  align-items: center;
+  background-color: #4bba31;
+  color: #FFF;
+}
+body main .tweet_bot img {
+  border-radius: 50%;
+  width: 80px;
+}
+body main .tweet_bot strong {
+  margin-left: 10px;
+}
+body main .tweet_bot p {
+  font-weight: 300;
+  margin-left: 10px;
+}
+
+/*# sourceMappingURL=style.css.map */

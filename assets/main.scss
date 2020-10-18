@@ -1,0 +1,70 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+}
+
+body {
+  font-family: "Oswald", sans-serif;
+  header {
+    width: 100%;
+    height: 90px;
+    background-color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    input {
+      width: 80%;
+      height: 60%;
+      background-color: #fff;
+      outline: none;
+      border: none;
+      border-radius: 4px;
+      font-size: 25px;
+      padding-left: 10px;
+    }
+  }
+  main{
+    display: flex;
+    flex-direction: column;
+    .tweet{
+      padding:5px 0 5px 30px;
+      display: flex;
+      align-items: center;
+      img{
+        border-radius:50%;
+        width:80px;
+      }
+
+      strong{
+        margin-left:10px;
+      }
+
+      p{
+        font-weight:300;
+        margin-left:10px;
+      }
+    }
+    .tweet_bot{
+      padding:5px 0 5px 30px;
+      display: flex;
+      align-items: center;
+      background-color:#4bba31;
+      color:#FFF;
+      img{
+        border-radius:50%;
+        width:80px;
+      }
+
+      strong{
+        margin-left:10px;
+      }
+
+      p{
+        font-weight:300;
+        margin-left:10px;
+      }
+    }
+  }
+}
