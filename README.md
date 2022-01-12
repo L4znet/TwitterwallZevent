@@ -6,20 +6,3 @@ Z Event est un projet caritatif créé par Adrien Nougaret et Alexandre Dachary.
 L'édition 2020 à levé la somme de 5.724.377 € pour Amnesty International.
 
 Pour ma part j'ai réalisé un twitterwall pour suivre les tweets sur l'hashtag officiel du Zevent pour ne pas louper les temps fort de l'évènement.
-
-**Pour l'installer**
-
-Dans le dossier du projet : 
-```
-npm install
-```
-puis pour lancer le projet
-```
-node app.js
-```
-
-## Pour générer vos clés : 
-
-* Si vous n'avez pas de compte développeur Twitter : https://developer.twitter.com/en/application/use-case
-* Si vous en avez un et que vous n'avez pas créé d'application, créez en une, vous pourrez ensuite générer vos clés.
-* Si vous avez une application, il vous suffit de renommer votre application si vous le souhaiter, et vous pourrez re-générer vos clés.
